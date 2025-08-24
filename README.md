@@ -1,16 +1,32 @@
 ## Hi there 👋
+I’m Anirudh Yeluri  
 
-<!--
-**AnirudhReddy-Are/AnirudhReddy-Are** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 1st Year B.Sc Computer Science student at TJPS College(Acharya Nagarjuna University affiliate)
 
-Here are some ideas to get you started:
+💡 Interested in Artificial Intelligence, Machine Learning, and Cloud Computing  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning Python, Data Structures, and Google Cloud  
+
+🚀 Exploring AI Hackathons and building beginner projects  
+
+---
+
+### 🔧 Skills (Learning & Using)  
+- Programming: Python, C  
+- AI/ML: Basics of Machine Learning (beginner)  
+- Cloud: Google Cloud Platform  
+- Tools: Git, GitHub, VS Code  
+
+---
+
+### 📌 Projects (so far)  
+- 🧮 Simple Calculator in Python  
+- 🤖 Beginner AI Chatbot  
+- 📊 Data Visualization using Python  
+
+---
+
+### 📫 Connect with Me  
+- [LinkedIn](https://www.linkedin.com/in/anirudh-reddy-are-62b478380?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Email](anirudhyeluri27@gmail.com)  
+
